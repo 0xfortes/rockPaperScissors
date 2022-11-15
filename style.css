@@ -92,17 +92,6 @@ body {
 
 }
 
-footer {
-    background-color: rgb(190, 183, 183);
-    position: absolute;
-    color: brown;
-    font-family: 'Trebuchet MS', sans-serif;
-    font-weight: bold;
-    font-size: 12px;
-    bottom: 0;
-    
-}
-
 .green {
     color: green;
 }
