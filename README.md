@@ -1,2 +1,6 @@
-# Coding a rock paper scissors game
-# Still in console play mode
+# Rock paper scissors game 
+	#Html
+	#CSS
+	#JS Logic
+
+# Part of Odin Project
